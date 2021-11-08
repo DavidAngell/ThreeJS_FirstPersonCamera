@@ -1,3 +1,5 @@
+//Based on: https://github.com/simondevyoutube/ThreeJS_Tutorial_ThirdPersonCamera
+
 import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.118/build/three.module.js';
 
 let game = null;
